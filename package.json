@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "express": "~4.6.1",
-    "logfmt": "~1.1.2"
+    "logfmt": "~1.1.2",
+    "foreman": "~0.4.0"
   }
 }
